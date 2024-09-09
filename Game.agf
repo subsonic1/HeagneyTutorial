@@ -664,6 +664,10 @@
             <Description IsNull="True" />
             <Number>3</Number>
           </UnloadedRoom>
+          <UnloadedRoom>
+            <Description IsNull="True" />
+            <Number>4</Number>
+          </UnloadedRoom>
         </UnloadedRooms>
       </UnloadedRoomFolder>
     </Rooms>
@@ -2476,7 +2480,7 @@
             <SpeechView>0</SpeechView>
             <StartX>517</StartX>
             <StartY>503</StartY>
-            <StartingRoom>3</StartingRoom>
+            <StartingRoom>4</StartingRoom>
             <ThinkingView>0</ThinkingView>
             <TurnBeforeWalking>True</TurnBeforeWalking>
             <UniformMovementSpeed>True</UniformMovementSpeed>
