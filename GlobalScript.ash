@@ -2,5 +2,4 @@
 // the game (local and global). Do not place functions here; rather,
 // place import definitions and #define names here to be used by all
 // scripts.
-
-//import int giftsCollected; 
+import function WalkToObjectAndPickup(Object *obj);
